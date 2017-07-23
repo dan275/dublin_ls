@@ -16,6 +16,7 @@ body {
 	line-height: 1.6;
 	color: #333;
 	background: #05350b;
+	background: green;
 }
 
 #wrap {
@@ -399,7 +400,7 @@ figcaption {
 	color: #fff;
 	background: #1f211f;
 	padding: 6.5em 0;
-	background-image: url('http://localhost/training/simple%20template/img/1.jpg');
+	background-image: url('../img/1.jpg');
 	background-repeat: no-repeat;
     background-position: right center; 
     background-size: cover;
@@ -528,7 +529,7 @@ figcaption {
 	width: 100%;
 	height: 80px;
 	margin-top: 0px;
-	background-image: url('http://localhost/training/simple%20template/img/grass-short-pattern.jpg');
+	background-image: url('../img/grass-short-pattern.jpg');
 	background-repeat: repeat-x;
     border-bottom: 10px solid #201917;
     margin-bottom: 0px;
@@ -538,7 +539,7 @@ figcaption {
 
 #garden {
 	background-color: #061305;
-	background-image: url('http://localhost/training/simple%20template/img/garden-tools.jpg');
+	background-image: url('../img/garden-tools.jpg');
 	background-repeat: no-repeat;
 	background-attachment: scroll;
     background-position: center; 
@@ -617,7 +618,7 @@ figcaption {
 	padding-bottom: 50px;
 }
 	#garden-boxed-bg {
-		background-image: url('http://localhost/training/simple%20template/img/landscaping-bg.jpg');
+		background-image: url('../img/landscaping-bg.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		box-shadow: 1px 3px 8px #999;
@@ -647,7 +648,7 @@ figcaption {
 		color: green;
 		text-align: center;
 		height: 40px;
-		background-image: url('http://localhost/training/simple%20template/img/check_mark.jpg');
+		background-image: url('../img/check_mark.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		margin-bottom: 1.5em;
@@ -665,7 +666,7 @@ figcaption {
 		color: green;
 		text-align: center;
 		height: 40px;
-		background-image: url('http://localhost/training/simple%20template/img/check_mark.jpg');
+		background-image: url('../img/check_mark.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		margin-bottom: 1.5em;
@@ -683,7 +684,7 @@ figcaption {
 /*------------------------------------ Water Feature ----------------------------------*/
 
 #large-left-1 {
-	background-image: url('http://localhost/training/simple%20template/img/.jpg');
+	background-image: url('../img/.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -691,7 +692,7 @@ figcaption {
 }
 
 #water-feature-bg {
-	background-image: url('http://localhost/training/simple%20template/img/water-bg.jpg');
+	background-image: url('../img/water-bg.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -854,7 +855,7 @@ figcaption {
 	width: 100%;
 	height: 90px;
 	margin-top: 0px;
-	background-image: url('http://localhost/training/simple%20template/img/paving-pattern.gif');
+	background-image: url('../img/paving-pattern.gif');
 	background-repeat: repeat-x;
     border-top: 1px solid #999;
     border-bottom: 8px solid #061305;
@@ -870,7 +871,7 @@ figcaption {
 	height: 700px;
 	width: 100%; 
 	padding-top: 80px;
-    background-image: url("http://localhost/training/simple%20template/img/paving-bg.jpg");
+    background-image: url("../img/paving-bg.jpg");
     background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
@@ -892,7 +893,7 @@ figcaption {
 }
 	#paving-boxed-bg {
 		width: 50%;
-		background-image: url('http://localhost/training/simple%20template/img/paving-block-bg.jpg');
+		background-image: url('../img/paving-block-bg.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		background-position: center;
@@ -970,21 +971,21 @@ figcaption {
 	margin-bottom: 10px;
 }
 #testimalionalsImageWrap {
-	background-image: url('http://localhost/training/simple%20template/img/testimonials-bg.jpg');
+	background-image: url('../img/testimonials-bg.jpg');
 	background-repeat: no-repeat;
 	background-size:cover; 
 	width: 100%; 
 	position:relative!important;
 }
 #testimalionals2ImageWrap {
-	background-image: url('http://localhost/training/simple%20template/img/2.jpg');
+	background-image: url('../img/2.jpg');
 	background-repeat: no-repeat;
 	float: right;
 	text-align: right;
 }
 #fallOffer {
 	float: right;
-	background-image: url('http://localhost/training/simple%20template/img/4.jpg');
+	background-image: url('../img/4.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -1346,8 +1347,8 @@ figcaption {
 	width: 100%;
 	height: 70px;
 	margin-top: 0px;
-	background-image: url('http://localhost/training/simple%20template/img/footer_grass_1_1024.jpg');
-	background-image: url('http://localhost/training/simple%20template/img/grass-short-pattern.jpg');
+	background-image: url('../img/footer_grass_1_1024.jpg');
+	background-image: url('../img/grass-short-pattern.jpg');
 	background-repeat: repeat-x;
 }
 
@@ -1687,7 +1688,7 @@ figcaption {
 	width:50%; 
 }
 #testimalionals2ImageWrap {
-	background-image: url('http://localhost/training/simple%20template/img/2.jpg');
+	background-image: url('../img/2.jpg');
 	background-repeat: no-repeat;
 	float: right;
 	text-align: right;
@@ -2005,7 +2006,7 @@ figcaption {
 	}
 
 		.col-2-1 {
-			background-image: url('http://localhost/training/simple%20template/img/1.jpg');
+			background-image: url('../img/1.jpg');
 			background-repeat: no-repeat;
 		    background-position: left; 
 		    background-size: cover;
@@ -2034,7 +2035,7 @@ figcaption {
 		text-align: center;
 		padding-top: 40px;
 		height: 40px;
-		background-image: url('http://localhost/training/simple%20template/img/check_mark.jpg');
+		background-image: url('../img/check_mark.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		margin-bottom: 1.5em;
@@ -2055,7 +2056,7 @@ figcaption {
 		color: green;
 		text-align: center;
 		height: 40px;
-		background-image: url('http://localhost/training/simple%20template/img/check_mark.jpg');
+		background-image: url('../img/check_mark.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		margin-bottom: 1.5em;
@@ -2161,7 +2162,7 @@ figcaption {
 		width: 100%;
 		height:40px;
 		text-align: left;
-		background-image: url('http://localhost/training/simple%20template/img/check_mark.jpg');
+		background-image: url('../img/check_mark.jpg');
 		background-position: left center;
 		background-repeat: no-repeat;
 		margin-bottom: 1.5em;
